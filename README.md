@@ -1,1 +1,1 @@
-# cs50x-projects
+# CS50x Projects (Problems & Labs)
